@@ -46,3 +46,5 @@ embarked欄位為類別資料因此利用onehot encoding方式做dummy variable�
 |隱藏層2|40 個|30 個|relu|
 |輸出層1|30 個|1 個|sigmoid|
 
+![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/accuracy.PNG)
+![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/loss.PNG)
