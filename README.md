@@ -37,6 +37,9 @@ sex欄位原本為female及male轉換成數字0，1。
 ### 3.3onehot encoding
 embarked欄位為類別資料因此利用onehot encoding方式做dummy variable。
 
+### 3.4標準化
+因為有些變數數值差異大，因此使用標準化，雖然此舉會損失變數的解釋性，但有利於模型訓練。
+
 # 4.Model
 我選用Keras並建立MLP模型。
 
@@ -48,3 +51,6 @@ embarked欄位為類別資料因此利用onehot encoding方式做dummy variable�
 
 ![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/accuracy.PNG)
 ![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/loss.PNG)
+
+# Reference
+book: Tensorflow+Keras深度學習人工智慧實務應用
