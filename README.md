@@ -55,5 +55,10 @@ embarked欄位為類別資料因此利用onehot encoding方式做dummy variable�
 ![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/accuracy.PNG)
 ![image](https://github.com/HsingCheng/Kggle_Tainic/blob/master/loss.PNG)
 
+# 5.結論
+1.在資料分析主要是希望變數都能數值化以利模型訓練。
+
+2.由於是初學實作，還未考慮到更進一步的資料分析以及選模的動作。
+
 # Reference
 book: Tensorflow+Keras深度學習人工智慧實務應用
