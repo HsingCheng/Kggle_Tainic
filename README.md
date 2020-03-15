@@ -1,3 +1,6 @@
+# kaggle_Tainic score 0.77990/1
+Tainic(https://www.kaggle.com/c/titanic)
+
 # 1.緒論
 在Kaggle上鐵達尼號是一個經典的且適合初學者的比賽。建立一個機器學習模型來預測乘客是否生還。
 
